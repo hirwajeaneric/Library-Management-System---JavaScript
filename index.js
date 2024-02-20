@@ -1,6 +1,6 @@
 var library = [
     {
-        title: 'The Digital Fortres',
+        title: 'The Digital Fortress',
         author: 'Dan Brown',
         availability: true,
     },
@@ -18,6 +18,11 @@ var library = [
         title: 'Atomic Habits',
         author: 'James Clair',
         availability: false,
+    },
+    {
+        title: 'Think and Grow Rich',
+        author: 'Napoleon Hill',
+        availability: true,
     },
 ];
 
